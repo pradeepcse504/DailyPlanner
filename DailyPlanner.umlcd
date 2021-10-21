@@ -1,0 +1,2243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_s_AeEDF3EeyfuqiXUOBUJQ">
+  <modelElement href="DailyPlanner.uml#_s7qPIDF3EeyfuqiXUOBUJQ"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vY5toDF3EeyfuqiXUOBUJQ" sourceAnchor="127.0,0.0" targetAnchor="190.0,376.0" superClass="_vTGAkDF3EeyfuqiXUOBUJQ" subClass="_vY_NMDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t5-RgDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZqAADF3EeyfuqiXUOBUJQ" sourceY="-255" targetX="-1378" targetY="33"/>
+    <bendpoints xmi:id="_wZrOIDF3EeyfuqiXUOBUJQ" sourceX="1378" sourceY="-255" targetY="33"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vaK48DF3EeyfuqiXUOBUJQ" sourceAnchor="125.0,0.0" targetAnchor="127.0,61.0" superClass="_vY_NMDF3EeyfuqiXUOBUJQ" subClass="_vaNVMDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t5-4kDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZtDUDF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="286" targetY="1192"/>
+    <bendpoints xmi:id="_wZtDUTF3EeyfuqiXUOBUJQ" sourceX="-286" sourceY="-21" targetY="1192"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vaawkDF3EeyfuqiXUOBUJQ" sourceAnchor="87.0,0.0" targetAnchor="190.0,376.0" superClass="_vTGAkDF3EeyfuqiXUOBUJQ" subClass="_vfJfkDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t5_foDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZtqYDF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="1014" targetY="33"/>
+    <bendpoints xmi:id="_wZtqYTF3EeyfuqiXUOBUJQ" sourceX="-1014" sourceY="-21" targetY="33"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vfp14DF3EeyfuqiXUOBUJQ" sourceAnchor="79.0,0.0" targetAnchor="190.0,376.0" superClass="_vTGAkDF3EeyfuqiXUOBUJQ" subClass="_vfv8gDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t5_foTF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZtqYjF3EeyfuqiXUOBUJQ" sourceY="-255" targetX="-26" targetY="33"/>
+    <bendpoints xmi:id="_wZuRcDF3EeyfuqiXUOBUJQ" sourceX="26" sourceY="-255" targetY="33"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vfrEADF3EeyfuqiXUOBUJQ" sourceAnchor="118.0,0.0" targetAnchor="79.0,61.0" superClass="_vfv8gDF3EeyfuqiXUOBUJQ" subClass="_vZ2I0DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t5-RgTF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZr1MDF3EeyfuqiXUOBUJQ" sourceY="-34" targetX="-117" targetY="48"/>
+    <bendpoints xmi:id="_wZr1MTF3EeyfuqiXUOBUJQ" sourceX="117" sourceY="-34" targetY="48"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vf8JwDF3EeyfuqiXUOBUJQ" sourceAnchor="203.0,0.0" targetAnchor="127.0,61.0" superClass="_vY_NMDF3EeyfuqiXUOBUJQ" subClass="_vf-mADF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6AGsDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZvfkDF3EeyfuqiXUOBUJQ" sourceY="-73" targetX="637" targetY="1192"/>
+    <bendpoints xmi:id="_wZvfkTF3EeyfuqiXUOBUJQ" sourceX="-637" sourceY="-73" targetY="1192"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vgqigDF3EeyfuqiXUOBUJQ" sourceAnchor="95.0,0.0" targetAnchor="87.0,61.0" superClass="_vfJfkDF3EeyfuqiXUOBUJQ" subClass="_vguM4DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6AtwTF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZx70DF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="403" targetY="1426"/>
+    <bendpoints xmi:id="_wZzJ8DF3EeyfuqiXUOBUJQ" sourceX="-403" sourceY="-21" targetY="1426"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vhK40DF3EeyfuqiXUOBUJQ" sourceAnchor="127.0,0.0" targetAnchor="87.0,61.0" superClass="_vfJfkDF3EeyfuqiXUOBUJQ" subClass="_vhNVEDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6BU0DF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZzxADF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="156" targetY="1426"/>
+    <bendpoints xmi:id="_wZ0_IDF3EeyfuqiXUOBUJQ" sourceX="-156" sourceY="-21" targetY="1426"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vhQ_cDF3EeyfuqiXUOBUJQ" sourceAnchor="167.0,0.0" targetAnchor="127.0,61.0" superClass="_vY_NMDF3EeyfuqiXUOBUJQ" subClass="_vhTbsDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6B74DF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZ1mMDF3EeyfuqiXUOBUJQ" sourceY="-34" targetX="-26" targetY="1192"/>
+    <bendpoints xmi:id="_wZ2NQDF3EeyfuqiXUOBUJQ" sourceX="26" sourceY="-34" targetY="1192"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_viGs8DF3EeyfuqiXUOBUJQ" sourceAnchor="77.0,0.0" targetAnchor="87.0,61.0" superClass="_vfJfkDF3EeyfuqiXUOBUJQ" subClass="_viegYDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6B74TF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZ3bYDF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="-104" targetY="1426"/>
+    <bendpoints xmi:id="_wZ3bYTF3EeyfuqiXUOBUJQ" sourceX="104" sourceY="-21" targetY="1426"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vi6lQDF3EeyfuqiXUOBUJQ" sourceAnchor="126.0,0.0" targetAnchor="79.0,61.0" superClass="_vfv8gDF3EeyfuqiXUOBUJQ" subClass="_vjAE0DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6Ci8DF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZ4CcDF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="156" targetY="48"/>
+    <bendpoints xmi:id="_wZ4CcTF3EeyfuqiXUOBUJQ" sourceX="-156" sourceY="-21" targetY="48"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vk7XcDF3EeyfuqiXUOBUJQ" sourceAnchor="103.0,0.0" targetAnchor="87.0,61.0" superClass="_vfJfkDF3EeyfuqiXUOBUJQ" subClass="_vlA3ADF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6DxETF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZ53oDF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="-299" targetY="1426"/>
+    <bendpoints xmi:id="_wZ53oTF3EeyfuqiXUOBUJQ" sourceX="299" sourceY="-21" targetY="1426"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vlHksDF3EeyfuqiXUOBUJQ" sourceAnchor="123.0,0.0" targetAnchor="79.0,61.0" superClass="_vfv8gDF3EeyfuqiXUOBUJQ" subClass="_vlmF0DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6EYIDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZ7s0DF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="-390" targetY="48"/>
+    <bendpoints xmi:id="_wZ7s0TF3EeyfuqiXUOBUJQ" sourceX="390" sourceY="-21" targetY="48"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vlxE8DF3EeyfuqiXUOBUJQ" sourceAnchor="363.0,119.0" targetAnchor="0.0,31.0" target="_vfv8gDF3EeyfuqiXUOBUJQ" source="_vmxKgDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9tiATF3EeyfuqiXUOBUJQ"/>
+    <stereotypes xmi:id="_vmPmEDF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t9uwIDF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vmMiwDF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_waNZoDF3EeyfuqiXUOBUJQ" position="-203.0,-10.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vmNJ0DF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9tiAjF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waMLgDF3EeyfuqiXUOBUJQ" position="5.5,-65.5"/>
+      <visibility xmi:id="_vmdBcTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmdBcDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vmNw4DF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="events" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t7sIwDF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waOAsDF3EeyfuqiXUOBUJQ" position="-62.5,12.5"/>
+      <visibility xmi:id="_vmdogTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vmdogDF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vmHqQDF3EeyfuqiXUOBUJQ" sourceAnchor="0.0,119.0" targetAnchor="253.0,31.0" target="_vY_NMDF3EeyfuqiXUOBUJQ" source="_vmxKgDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9v-QTF3EeyfuqiXUOBUJQ"/>
+    <stereotypes xmi:id="_vmQNITF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t9xMYDF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vmPmETF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_waP14DF3EeyfuqiXUOBUJQ" position="32.0,-10.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vmPmEjF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9v-QjF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waPO0DF3EeyfuqiXUOBUJQ" position="-19.5,12.5"/>
+      <visibility xmi:id="_vmePkTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmePkDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vmQNIDF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="appointments" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t7ulADF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waQc8DF3EeyfuqiXUOBUJQ" position="5.5,-65.5"/>
+      <visibility xmi:id="_vmePkzF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vmePkjF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vmKGgDF3EeyfuqiXUOBUJQ" sourceAnchor="182.0,237.0" targetAnchor="74.0,61.0" target="_vfJfkDF3EeyfuqiXUOBUJQ" source="_vmxKgDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9xMYTF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZ868DF3EeyfuqiXUOBUJQ" sourceY="1078" targetX="-1807" targetY="1400"/>
+    <bendpoints xmi:id="_wZ9iADF3EeyfuqiXUOBUJQ" sourceX="1807" sourceY="1078" targetY="1400"/>
+    <stereotypes xmi:id="_vmQ0MjF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t9yagDF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vmQNIjF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_waSSIDF3EeyfuqiXUOBUJQ" position="-886.0,-10.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vmQ0MDF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9xMYjF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waRrEDF3EeyfuqiXUOBUJQ" position="5.5,5.5"/>
+      <visibility xmi:id="_vme2ojF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vme2oTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vmQ0MTF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="errands" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t7vzIDF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waS5MDF3EeyfuqiXUOBUJQ" position="-459.5,1412.4999999999998"/>
+      <visibility xmi:id="_vmfdsTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vmfdsDF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vmwjcDF3EeyfuqiXUOBUJQ" sourceAnchor="182.0,0.0" targetAnchor="0.0,31.0" target="_voFZIDF3EeyfuqiXUOBUJQ" source="_vmxKgDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9uwITF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZ-JEDF3EeyfuqiXUOBUJQ" sourceY="-115" targetX="-1305"/>
+    <stereotypes xmi:id="_vmwjcTF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t9v-QDF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vmwjcjF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_waUuYDF3EeyfuqiXUOBUJQ" position="1174.0,-10.000000000000057"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vmwjczF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9uwIjF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waTgQDF3EeyfuqiXUOBUJQ" position="-20.5,-57.5"/>
+      <visibility xmi:id="_vmwjdDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmwjdTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vmwjdjF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="tasks" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t7tW4TF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waVVcDF3EeyfuqiXUOBUJQ" position="-53.5,12.5"/>
+      <visibility xmi:id="_vmwjdzF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vmwjeDF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vnRg0DF3EeyfuqiXUOBUJQ" sourceAnchor="73.0,0.0" targetAnchor="190.0,376.0" superClass="_vTGAkDF3EeyfuqiXUOBUJQ" subClass="_voFZIDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6Ls4DF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZ-JETF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="572" targetY="33"/>
+    <bendpoints xmi:id="_wZ-wIDF3EeyfuqiXUOBUJQ" sourceX="-572" sourceY="-21" targetY="33"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vnSH4DF3EeyfuqiXUOBUJQ" sourceAnchor="137.0,0.0" targetAnchor="73.0,61.0" superClass="_voFZIDF3EeyfuqiXUOBUJQ" subClass="_vgUkQDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6AtwDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZwtsDF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="-286" targetY="1192"/>
+    <bendpoints xmi:id="_wZxUwDF3EeyfuqiXUOBUJQ" sourceX="286" sourceY="-21" targetY="1192"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vnSu8DF3EeyfuqiXUOBUJQ" sourceAnchor="120.0,0.0" targetAnchor="73.0,61.0" superClass="_voFZIDF3EeyfuqiXUOBUJQ" subClass="_vja7kDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6DKADF3EeyfuqiXUOBUJQ"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vnSu8TF3EeyfuqiXUOBUJQ" sourceAnchor="123.0,0.0" targetAnchor="73.0,61.0" superClass="_voFZIDF3EeyfuqiXUOBUJQ" subClass="_vkfSkDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6DxEDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZ5QkDF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="273" targetY="1192"/>
+    <bendpoints xmi:id="_wZ5QkTF3EeyfuqiXUOBUJQ" sourceX="-273" sourceY="-21" targetY="1192"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vou5YDF3EeyfuqiXUOBUJQ" sourceAnchor="113.0,0.0" targetAnchor="79.0,61.0" superClass="_vfv8gDF3EeyfuqiXUOBUJQ" subClass="_vo3cQDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6MT8DF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZ-wITF3EeyfuqiXUOBUJQ" sourceY="-34" targetX="416" targetY="48"/>
+    <bendpoints xmi:id="_wZ_XMDF3EeyfuqiXUOBUJQ" sourceX="-416" sourceY="-34" targetY="48"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vpiKoDF3EeyfuqiXUOBUJQ" sourceAnchor="171.0,0.0" targetAnchor="127.0,61.0" superClass="_vY_NMDF3EeyfuqiXUOBUJQ" subClass="_vpqtgDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6MT8TF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_wZ_XMTF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="-390" targetY="1192"/>
+    <bendpoints xmi:id="_wZ_-QDF3EeyfuqiXUOBUJQ" sourceX="390" sourceY="-21" targetY="1192"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vrOzwDF3EeyfuqiXUOBUJQ" sourceAnchor="175.0,0.0" targetAnchor="140.0,310.0" superClass="_vqS_oDF3EeyfuqiXUOBUJQ" subClass="_vsR8oDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t5qIcDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waAlUDF3EeyfuqiXUOBUJQ" sourceY="-524" targetX="832" targetY="27"/>
+    <bendpoints xmi:id="_waAlUTF3EeyfuqiXUOBUJQ" sourceX="-832" sourceY="-524" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vr2e0DF3EeyfuqiXUOBUJQ" sourceAnchor="0.0,100.0" targetAnchor="315.0,144.0" target="_vwYZgDF3EeyfuqiXUOBUJQ" source="_vsR8oDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9bOIDF3EeyfuqiXUOBUJQ"/>
+    <stereotypes xmi:id="_vr2e0TF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t9jxADF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vr2e0jF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_waXKoDF3EeyfuqiXUOBUJQ" position="7.0,-10.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vr2e0zF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9bOITF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waWjkDF3EeyfuqiXUOBUJQ" position="-19.5,12.5"/>
+      <visibility xmi:id="_vr2e1DF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vr2e1TF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vr2e1jF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="scanner" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t7U8YDF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waXxsDF3EeyfuqiXUOBUJQ" position="5.5,-65.5"/>
+      <visibility xmi:id="_vr2e1zF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vr2e2DF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vsq-MDF3EeyfuqiXUOBUJQ" sourceAnchor="140.0,0.0" targetAnchor="140.0,310.0" superClass="_vqS_oDF3EeyfuqiXUOBUJQ" subClass="_vtSCMDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t5ty0DF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waBMYDF3EeyfuqiXUOBUJQ" sourceY="-30" targetX="273" targetY="27"/>
+    <bendpoints xmi:id="_waBzcDF3EeyfuqiXUOBUJQ" sourceX="-273" sourceY="-30" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vtMioDF3EeyfuqiXUOBUJQ" sourceAnchor="140.0,200.0" targetAnchor="158.0,0.0" target="_vwYZgDF3EeyfuqiXUOBUJQ" source="_vtSCMDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9kYEDF3EeyfuqiXUOBUJQ"/>
+    <stereotypes xmi:id="_vtQNATF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t9k_IDF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vtPl8DF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_waaN8DF3EeyfuqiXUOBUJQ" position="-22.0,-14.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vtPl8TF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9kYETF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waY_0DF3EeyfuqiXUOBUJQ" position="5.5,5.0"/>
+      <visibility xmi:id="_vtQ0ETF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vtQ0EDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vtQNADF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="scanner" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t7X_sDF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waaN8TF3EeyfuqiXUOBUJQ" position="-72.5,-58.0"/>
+      <visibility xmi:id="_vtQ0EzF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vtQ0EjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vuGhkDF3EeyfuqiXUOBUJQ" sourceAnchor="140.0,0.0" targetAnchor="140.0,310.0" superClass="_vqS_oDF3EeyfuqiXUOBUJQ" subClass="_vu6Z4DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t5yrUDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waCagDF3EeyfuqiXUOBUJQ" sourceY="-30" targetX="-325" targetY="27"/>
+    <bendpoints xmi:id="_waCagTF3EeyfuqiXUOBUJQ" sourceX="325" sourceY="-30" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vuuzsDF3EeyfuqiXUOBUJQ" sourceAnchor="140.0,200.0" targetAnchor="0.0,144.0" target="_vwYZgDF3EeyfuqiXUOBUJQ" source="_vu6Z4DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9lmMDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waBzcTF3EeyfuqiXUOBUJQ" sourceY="394" targetX="-440"/>
+    <stereotypes xmi:id="_vu39oDF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t9mNQDF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vu3WkDF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_wacqMDF3EeyfuqiXUOBUJQ" position="43.0,-10.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vu3WkTF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9lmMTF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_wabcEDF3EeyfuqiXUOBUJQ" position="5.5,5.0"/>
+      <visibility xmi:id="_vu4ksTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vu4ksDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vu3WkjF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="scanner" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t7ab8DF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_wadRQDF3EeyfuqiXUOBUJQ" position="-71.5,12.5"/>
+      <visibility xmi:id="_vu4kszF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vu4ksjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vv-J0DF3EeyfuqiXUOBUJQ" source="_vwYZgDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9m0UDF3EeyfuqiXUOBUJQ"/>
+    <stereotypes xmi:id="_vv-J0TF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t9rs0DF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vv-J0jF3EeyfuqiXUOBUJQ" text=""/>
+    <sourceRole xmi:id="_vv-J0zF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9m0UTF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vv-J1DF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vv-J1TF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vv-J1jF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="input" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t7hJoDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vv-J1zF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vv-J2DF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vwtwsDF3EeyfuqiXUOBUJQ" sourceAnchor="140.0,200.0" targetAnchor="0.0,131.0" target="_vwYZgDF3EeyfuqiXUOBUJQ" source="_vxksUDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9sT4DF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waDBkDF3EeyfuqiXUOBUJQ" sourceY="381" targetX="-141"/>
+    <stereotypes xmi:id="_vxelsjF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t9tiADF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vxd-oDF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_wafGcDF3EeyfuqiXUOBUJQ" position="-22.0,-270.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vxelsDF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9sT4TF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waefYDF3EeyfuqiXUOBUJQ" position="5.5,5.0"/>
+      <visibility xmi:id="_vxiQETF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vxiQEDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vxelsTF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="scanner" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t7iXwDF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waftgDF3EeyfuqiXUOBUJQ" position="-213.50000000000006,-58.0"/>
+      <visibility xmi:id="_vxi3ITF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vxi3IDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vxbiYDF3EeyfuqiXUOBUJQ" sourceAnchor="140.0,0.0" targetAnchor="140.0,310.0" superClass="_vqS_oDF3EeyfuqiXUOBUJQ" subClass="_vxksUDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t57OMTF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waDooDF3EeyfuqiXUOBUJQ" sourceY="-30" targetX="-26" targetY="27"/>
+    <bendpoints xmi:id="_waDooTF3EeyfuqiXUOBUJQ" sourceX="26" sourceY="-30" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vx7RoDF3EeyfuqiXUOBUJQ" sourceAnchor="0.0,53.0" targetAnchor="372.0,41.0" target="_vyrfkDF3EeyfuqiXUOBUJQ" source="_vyBYQDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9_O0DF3EeyfuqiXUOBUJQ"/>
+    <stereotypes xmi:id="_vx7RoTF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t-Ac8DF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vx7RojF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_waiJwDF3EeyfuqiXUOBUJQ" position="-10.0,-10.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vx7RozF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9_O0TF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_wag7oDF3EeyfuqiXUOBUJQ" position="-19.5,12.5"/>
+      <visibility xmi:id="_vx7RpDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vx7RpTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vx7RpjF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="state" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t79OgDF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waiJwTF3EeyfuqiXUOBUJQ" position="5.0,-65.5"/>
+      <visibility xmi:id="_vx7RpzF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vx7RqDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vyiVoDF3EeyfuqiXUOBUJQ" sourceAnchor="201.0,0.0" targetAnchor="186.0,82.0" dashed="true" superClass="_vyrfkDF3EeyfuqiXUOBUJQ" subClass="_vynOIDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6cLkDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waEPsDF3EeyfuqiXUOBUJQ" sourceY="-21" targetX="403" targetY="50"/>
+    <bendpoints xmi:id="_waEPsTF3EeyfuqiXUOBUJQ" sourceX="-403" sourceY="-21" targetY="50"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vy3s0DF3EeyfuqiXUOBUJQ" sourceAnchor="201.0,0.0" targetAnchor="186.0,82.0" dashed="true" superClass="_vyrfkDF3EeyfuqiXUOBUJQ" subClass="_vzn6wDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6gdADF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waE2wDF3EeyfuqiXUOBUJQ" sourceY="-34" targetX="-26" targetY="50"/>
+    <bendpoints xmi:id="_waFd0DF3EeyfuqiXUOBUJQ" sourceX="26" sourceY="-34" targetY="50"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vzrlIDF3EeyfuqiXUOBUJQ" sourceAnchor="480.0,67.0" targetAnchor="140.0,61.0" target="_vY_NMDF3EeyfuqiXUOBUJQ" source="_vz4ZcDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9yagTF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waHTADF3EeyfuqiXUOBUJQ" sourceX="59" targetX="1846" targetY="438"/>
+    <bendpoints xmi:id="_waH6EDF3EeyfuqiXUOBUJQ" sourceX="59" sourceY="-234" targetX="1846" targetY="204"/>
+    <bendpoints xmi:id="_waH6ETF3EeyfuqiXUOBUJQ" sourceX="-1787" sourceY="-234" targetY="204"/>
+    <stereotypes xmi:id="_vzuBYjF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t9zooDF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vztaUTF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_waj-8DF3EeyfuqiXUOBUJQ" position="-22.0,120.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vzuBYDF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9yagjF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_wajX4DF3EeyfuqiXUOBUJQ" position="5.0,-65.5"/>
+      <visibility xmi:id="_vzwdoTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vzwdoDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vzuBYTF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="appointments" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t7xoUDF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_wakmADF3EeyfuqiXUOBUJQ" position="5.0,138.49999999999955"/>
+      <visibility xmi:id="_vzxEsDF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vzwdojF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vztaUDF3EeyfuqiXUOBUJQ" sourceAnchor="240.0,0.0" targetAnchor="95.0,104.0" dashed="true" superClass="_v4AEcDF3EeyfuqiXUOBUJQ" subClass="_vz4ZcDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6M7ADF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waIhIDF3EeyfuqiXUOBUJQ" sourceY="-24" targetX="403" targetY="26"/>
+    <bendpoints xmi:id="_waIhITF3EeyfuqiXUOBUJQ" sourceX="-403" sourceY="-24" targetY="26"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_v0sRwDF3EeyfuqiXUOBUJQ" sourceAnchor="181.0,134.0" targetAnchor="61.0,61.0" target="_vfJfkDF3EeyfuqiXUOBUJQ" source="_v1YOQDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9zooTF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waJIMDF3EeyfuqiXUOBUJQ" sourceY="141" targetX="-1599" targetY="1309"/>
+    <bendpoints xmi:id="_waJIMTF3EeyfuqiXUOBUJQ" sourceX="1599" sourceY="141" targetY="1309"/>
+    <stereotypes xmi:id="_v1Uj4TF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t98LgDF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_v1T80DF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_wambMDF3EeyfuqiXUOBUJQ" position="-782.0,-10.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_v1T80TF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9zoojF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_wal0IDF3EeyfuqiXUOBUJQ" position="5.5,5.0"/>
+      <visibility xmi:id="_v1XAIDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v1WZEDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_v1Uj4DF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="errands" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t70roDF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_wanCQDF3EeyfuqiXUOBUJQ" position="-71.0,1321.5"/>
+      <visibility xmi:id="_v1XAIjF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_v1XAITF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_v0tf4DF3EeyfuqiXUOBUJQ" sourceAnchor="181.0,0.0" targetAnchor="95.0,104.0" dashed="true" superClass="_v4AEcDF3EeyfuqiXUOBUJQ" subClass="_v1YOQDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6P-UDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waJIMjF3EeyfuqiXUOBUJQ" sourceY="-453" targetX="-390" targetY="26"/>
+    <bendpoints xmi:id="_waJvQDF3EeyfuqiXUOBUJQ" sourceX="390" sourceY="-453" targetY="26"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_v2SNMDF3EeyfuqiXUOBUJQ" sourceAnchor="169.0,0.0" targetAnchor="92.0,61.0" target="_vfv8gDF3EeyfuqiXUOBUJQ" source="_v3IhwDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t98ykDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waJvQTF3EeyfuqiXUOBUJQ" sourceY="-24" targetX="-52" targetY="607"/>
+    <bendpoints xmi:id="_waKWUDF3EeyfuqiXUOBUJQ" sourceX="585" sourceY="-24" targetX="533" targetY="607"/>
+    <bendpoints xmi:id="_waKWUTF3EeyfuqiXUOBUJQ" sourceX="585" sourceY="-609" targetX="533" targetY="22"/>
+    <bendpoints xmi:id="_waKWUjF3EeyfuqiXUOBUJQ" sourceX="52" sourceY="-609" targetY="22"/>
+    <stereotypes xmi:id="_v3FecDF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t99ZoDF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_v3E3YDF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_waoQYDF3EeyfuqiXUOBUJQ" position="-22.0,-276.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_v3E3YTF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t98ykTF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_wanpUDF3EeyfuqiXUOBUJQ" position="5.0,-89.5"/>
+      <visibility xmi:id="_v3GskTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v3GskDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_v3E3YjF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="events" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t73H4DF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_wao3cDF3EeyfuqiXUOBUJQ" position="70.5,-43.499999999999886"/>
+      <visibility xmi:id="_v3GskzF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_v3GskjF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_v3BNADF3EeyfuqiXUOBUJQ" sourceAnchor="156.0,0.0" targetAnchor="95.0,104.0" dashed="true" superClass="_v4AEcDF3EeyfuqiXUOBUJQ" subClass="_v3IhwDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6TBoDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waK9YDF3EeyfuqiXUOBUJQ" sourceY="-284" targetX="143" targetY="26"/>
+    <bendpoints xmi:id="_waK9YTF3EeyfuqiXUOBUJQ" sourceX="-143" sourceY="-284" targetY="26"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_v4J1cDF3EeyfuqiXUOBUJQ" sourceAnchor="316.0,67.0" targetAnchor="60.0,61.0" target="_voFZIDF3EeyfuqiXUOBUJQ" source="_v43AEDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t9-AsDF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waLkcDF3EeyfuqiXUOBUJQ" sourceX="648" targetY="1101"/>
+    <stereotypes xmi:id="_v4yuoTF3EeyfuqiXUOBUJQ" name="Reference">
+      <modelElement href="DailyPlanner.uml#_t9-nwDF3EeyfuqiXUOBUJQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_v4yHkDF3EeyfuqiXUOBUJQ" text="">
+      <visualProperties xmi:id="_waqsoDF3EeyfuqiXUOBUJQ" position="-126.0,-10.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_v4yHkTF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="">
+      <modelElement href="DailyPlanner.uml#_t9-AsTF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_waqFkDF3EeyfuqiXUOBUJQ" position="5.0,-65.5"/>
+      <visibility xmi:id="_v41K4TF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v41K4DF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_v4yuoDF3EeyfuqiXUOBUJQ" aggregationKind="NONE" name="tasks" navigable="true">
+      <modelElement href="DailyPlanner.uml#_t76LMDF3EeyfuqiXUOBUJQ"/>
+      <visualProperties xmi:id="_warTsDF3EeyfuqiXUOBUJQ" position="-54.0,1113.5"/>
+      <visibility xmi:id="_v41K4zF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_v41K4jF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_v4LDkDF3EeyfuqiXUOBUJQ" sourceAnchor="158.0,0.0" targetAnchor="95.0,104.0" dashed="true" superClass="_v4AEcDF3EeyfuqiXUOBUJQ" subClass="_v43AEDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t6Vd4TF3EeyfuqiXUOBUJQ"/>
+    <bendpoints xmi:id="_waLkcTF3EeyfuqiXUOBUJQ" sourceY="-453" targetX="-26" targetY="26"/>
+    <bendpoints xmi:id="_waLkcjF3EeyfuqiXUOBUJQ" sourceX="26" sourceY="-453" targetY="26"/>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vTGAkDF3EeyfuqiXUOBUJQ" name="Activity" subclassedBy="_vY5toDF3EeyfuqiXUOBUJQ _vaawkDF3EeyfuqiXUOBUJQ _vfp14DF3EeyfuqiXUOBUJQ _vnRg0DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tyESsDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vTGAkTF3EeyfuqiXUOBUJQ" position="1767.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vTGAkjF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_vTGAkzF3EeyfuqiXUOBUJQ" name="description">
+      <modelElement href="DailyPlanner.uml#_t7lbEDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vTGAlDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7mCIDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vTGAlTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vTGAljF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vTGAlzF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vTGAmDF3EeyfuqiXUOBUJQ" name="startDate">
+      <modelElement href="DailyPlanner.uml#_t7mpMDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vTGAmTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7nQQDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vTGAmjF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vTGAmzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vTGAnDF3EeyfuqiXUOBUJQ" name="Date">
+        <modelElement href="DailyPlanner.uml#_t6rcIDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vTGAnTF3EeyfuqiXUOBUJQ" name="endDate">
+      <modelElement href="DailyPlanner.uml#_t7n3UDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vTGAnjF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7oeYDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vTGAnzF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vTGAoDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vTGAoTF3EeyfuqiXUOBUJQ" name="Date">
+        <modelElement href="DailyPlanner.uml#_t6rcIDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vTGAojF3EeyfuqiXUOBUJQ" name="name">
+      <modelElement href="DailyPlanner.uml#_t7oeYTF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vTGAozF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7pFcDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vTGApDF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vTGApTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vTGApjF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vTGApzF3EeyfuqiXUOBUJQ" name="statusCompletion">
+      <modelElement href="DailyPlanner.uml#_t7psgDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vTGAqDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7qTkDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vTGAqTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vTGAqjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vTGAqzF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_vTK5EDF3EeyfuqiXUOBUJQ" name="getDescription">
+      <modelElement href="DailyPlanner.uml#_tyGH4DF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vTLgIDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vTLgITF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vTLgIjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyGu8DF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vTLgIzF3EeyfuqiXUOBUJQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vTLgJDF3EeyfuqiXUOBUJQ" name="setDescription">
+      <modelElement href="DailyPlanner.uml#_tyHWADF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vTLgJTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vTLgJjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vTLgJzF3EeyfuqiXUOBUJQ" name="description">
+        <modelElement href="DailyPlanner.uml#_tyHWATF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vTLgKDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vTLgKTF3EeyfuqiXUOBUJQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_vTLgKjF3EeyfuqiXUOBUJQ" name="getStartDate">
+      <modelElement href="DailyPlanner.uml#_tyH9EDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vTLgKzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vTLgLDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vTLgLTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6z_ADF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vTLgLjF3EeyfuqiXUOBUJQ" name="Date">
+          <modelElement href="DailyPlanner.uml#_t6rcIDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vTLgLzF3EeyfuqiXUOBUJQ" name="getEndDate">
+      <modelElement href="DailyPlanner.uml#_tyJLMDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vTLgMDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vTLgMTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vTLgMjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t61NIDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vTLgMzF3EeyfuqiXUOBUJQ" name="Date">
+          <modelElement href="DailyPlanner.uml#_t6rcIDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vTLgNDF3EeyfuqiXUOBUJQ" name="getName">
+      <modelElement href="DailyPlanner.uml#_tyJyQDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vTLgNTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vTLgNjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vTLgNzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyKZUDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vTLgODF3EeyfuqiXUOBUJQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vTLgOTF3EeyfuqiXUOBUJQ" name="setName">
+      <modelElement href="DailyPlanner.uml#_tyKZUTF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vTLgOjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vTLgOzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vTLgPDF3EeyfuqiXUOBUJQ" name="name">
+        <modelElement href="DailyPlanner.uml#_tyLAYDF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vTLgPTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vTLgPjF3EeyfuqiXUOBUJQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_vTLgPzF3EeyfuqiXUOBUJQ" name="getStatusCompletion">
+      <modelElement href="DailyPlanner.uml#_tyLncDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vTLgQDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vTLgQTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vTLgQjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyLncTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vTLgQzF3EeyfuqiXUOBUJQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vTLgRDF3EeyfuqiXUOBUJQ" name="setStatusCompletion">
+      <modelElement href="DailyPlanner.uml#_tyMOgDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vTLgRTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vTLgRjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vTLgRzF3EeyfuqiXUOBUJQ" name="statusCompletion">
+        <modelElement href="DailyPlanner.uml#_tyMOgTF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vTLgSDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vTLgSTF3EeyfuqiXUOBUJQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_vTLgSjF3EeyfuqiXUOBUJQ" name="setStartDate">
+      <modelElement href="DailyPlanner.uml#_t60mEDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vTLgSzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vTLgTDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vTLgTTF3EeyfuqiXUOBUJQ" name="startDate">
+        <modelElement href="DailyPlanner.uml#_t60mETF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vTLgTjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vTLgTzF3EeyfuqiXUOBUJQ" name="Date">
+          <modelElement href="DailyPlanner.uml#_t6rcIDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_vTLgUDF3EeyfuqiXUOBUJQ" name="setEndDate">
+      <modelElement href="DailyPlanner.uml#_t610MDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vTLgUTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vTLgUjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vTLgUzF3EeyfuqiXUOBUJQ" name="endDate">
+        <modelElement href="DailyPlanner.uml#_t62bQDF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vTLgVDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vTLgVTF3EeyfuqiXUOBUJQ" name="Date">
+          <modelElement href="DailyPlanner.uml#_t6rcIDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vY_NMDF3EeyfuqiXUOBUJQ" name="Appointment" associationsIn="_vmHqQDF3EeyfuqiXUOBUJQ _vzrlIDF3EeyfuqiXUOBUJQ" generalizations="_vY5toDF3EeyfuqiXUOBUJQ" subclassedBy="_vaK48DF3EeyfuqiXUOBUJQ _vf8JwDF3EeyfuqiXUOBUJQ _vhQ_cDF3EeyfuqiXUOBUJQ _vpiKoDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tyRHADF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vY_0QDF3EeyfuqiXUOBUJQ" position="452.0,694.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vY_0QTF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vY_0QjF3EeyfuqiXUOBUJQ" name="Appointment">
+      <modelElement href="DailyPlanner.uml#_tySVIDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vY_0QzF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vY_0RDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vY_0RTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vY_0RjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyS8MTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vY_0RzF3EeyfuqiXUOBUJQ" name="Appointment">
+          <modelElement href="DailyPlanner.uml#_tyRHADF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vZ2I0DF3EeyfuqiXUOBUJQ" name="Conference" generalizations="_vfrEADF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tyTjQDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vZ2I0TF3EeyfuqiXUOBUJQ" position="1696.0,837.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vZ2I0jF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vZ2I0zF3EeyfuqiXUOBUJQ" name="Conference">
+      <modelElement href="DailyPlanner.uml#_tyUxYDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vZ2I1DF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vZ2I1TF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vZ2I1jF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vZ2I1zF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyVYcDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vZ2I2DF3EeyfuqiXUOBUJQ" name="Conference">
+          <modelElement href="DailyPlanner.uml#_tyTjQDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vaNVMDF3EeyfuqiXUOBUJQ" name="Consultation" generalizations="_vaK48DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tyV_gDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vaNVMTF3EeyfuqiXUOBUJQ" position="740.0,1968.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vaNVMjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vaNVMzF3EeyfuqiXUOBUJQ" name="Consultation">
+      <modelElement href="DailyPlanner.uml#_tyXNoDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vaNVNDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vaNVNTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vaNVNjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vaNVNzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyX0sDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vaNVODF3EeyfuqiXUOBUJQ" name="Consultation">
+          <modelElement href="DailyPlanner.uml#_tyV_gDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vaVRADF3EeyfuqiXUOBUJQ" name="DailyPlanner">
+    <modelElement href="DailyPlanner.uml#_tyYbwDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vaVRATF3EeyfuqiXUOBUJQ" position="2445.0,2137.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vaVRAjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vaVRAzF3EeyfuqiXUOBUJQ" name="main" staticOperation="true">
+      <modelElement href="DailyPlanner.uml#_tyZp4DF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vaVRBDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vaVRBTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vaVRBjF3EeyfuqiXUOBUJQ" name="args">
+        <modelElement href="DailyPlanner.uml#_tyZp4TF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vaVRBzF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_vaV4EDF3EeyfuqiXUOBUJQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vfJfkDF3EeyfuqiXUOBUJQ" name="Errand" associationsIn="_vmKGgDF3EeyfuqiXUOBUJQ _v0sRwDF3EeyfuqiXUOBUJQ" generalizations="_vaawkDF3EeyfuqiXUOBUJQ" subclassedBy="_vgqigDF3EeyfuqiXUOBUJQ _vhK40DF3EeyfuqiXUOBUJQ _viGs8DF3EeyfuqiXUOBUJQ _vk7XcDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tya4ADF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vfJfkTF3EeyfuqiXUOBUJQ" position="2884.0,460.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vfKtsDF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vfKtsTF3EeyfuqiXUOBUJQ" name="Errand">
+      <modelElement href="DailyPlanner.uml#_tybfEDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vfKtsjF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vfKtszF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vfKttDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vfKttTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tycGIjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vfKttjF3EeyfuqiXUOBUJQ" name="Errand">
+          <modelElement href="DailyPlanner.uml#_tya4ADF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vfv8gDF3EeyfuqiXUOBUJQ" name="Event" associationsIn="_vlxE8DF3EeyfuqiXUOBUJQ _v2SNMDF3EeyfuqiXUOBUJQ" generalizations="_vfp14DF3EeyfuqiXUOBUJQ" subclassedBy="_vfrEADF3EeyfuqiXUOBUJQ _vi6lQDF3EeyfuqiXUOBUJQ _vlHksDF3EeyfuqiXUOBUJQ _vou5YDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tydUQDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vfv8gTF3EeyfuqiXUOBUJQ" position="1852.0,694.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vfv8gjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vfv8gzF3EeyfuqiXUOBUJQ" name="Event">
+      <modelElement href="DailyPlanner.uml#_tyeiYDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vfv8hDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vfv8hTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vfv8hjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vfv8hzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyfJcjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vfv8iDF3EeyfuqiXUOBUJQ" name="Event">
+          <modelElement href="DailyPlanner.uml#_tydUQDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vf-mADF3EeyfuqiXUOBUJQ" name="HealthCareAppointment" generalizations="_vf8JwDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tygXkDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vf-mATF3EeyfuqiXUOBUJQ" position="1013.0,2020.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vf-mAjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vf-mAzF3EeyfuqiXUOBUJQ" name="HealthCareAppointment">
+      <modelElement href="DailyPlanner.uml#_tyg-oDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vf-mBDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vf-mBTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vf-mBjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vf-mBzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyhlsjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vf-mCDF3EeyfuqiXUOBUJQ" name="HealthCareAppointment">
+          <modelElement href="DailyPlanner.uml#_tygXkDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vgUkQDF3EeyfuqiXUOBUJQ" name="IncidentalTask" generalizations="_vnSH4DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tyiMwDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vgUkQTF3EeyfuqiXUOBUJQ" position="2106.0,1734.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vgUkQjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vgUkQzF3EeyfuqiXUOBUJQ" name="IncidentalTask">
+      <modelElement href="DailyPlanner.uml#_tyja4DF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vgUkRDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vgUkRTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vgUkRjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vgUkRzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tykB8TF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vgUkSDF3EeyfuqiXUOBUJQ" name="IncidentalTask">
+          <modelElement href="DailyPlanner.uml#_tyiMwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vguM4DF3EeyfuqiXUOBUJQ" name="Laundry" generalizations="_vgqigDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tykpADF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vguM4TF3EeyfuqiXUOBUJQ" position="3279.0,1968.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vguM4jF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vguM4zF3EeyfuqiXUOBUJQ" name="Laundry">
+      <modelElement href="DailyPlanner.uml#_tyl3IDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vguM5DF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vguM5TF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vguM5jF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vguM5zF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyl3IzF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vguM6DF3EeyfuqiXUOBUJQ" name="Laundry">
+          <modelElement href="DailyPlanner.uml#_tykpADF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vhNVEDF3EeyfuqiXUOBUJQ" name="Maintenance" generalizations="_vhK40DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tynFQDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vhNVETF3EeyfuqiXUOBUJQ" position="3000.0,1968.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vhNVEjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vhNVEzF3EeyfuqiXUOBUJQ" name="Maintenance">
+      <modelElement href="DailyPlanner.uml#_tynsUDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vhNVFDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vhNVFTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vhNVFjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vhNVFzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyoTYjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vhNVGDF3EeyfuqiXUOBUJQ" name="Maintenance">
+          <modelElement href="DailyPlanner.uml#_tynFQDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vhTbsDF3EeyfuqiXUOBUJQ" name="NurseAppointment" generalizations="_vhQ_cDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_typhgDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vhUCwDF3EeyfuqiXUOBUJQ" position="386.0,1981.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vhUCwTF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vhUCwjF3EeyfuqiXUOBUJQ" name="NurseAppointment">
+      <modelElement href="DailyPlanner.uml#_tyqIkDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vhUCwzF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vhUCxDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vhUCxTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vhUCxjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyqvoTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vhUCxzF3EeyfuqiXUOBUJQ" name="NurseAppointment">
+          <modelElement href="DailyPlanner.uml#_typhgDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_viegYDF3EeyfuqiXUOBUJQ" name="Party" generalizations="_viGs8DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tyrWsDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_viegYTF3EeyfuqiXUOBUJQ" position="2790.0,1968.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_viegYjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_viegYzF3EeyfuqiXUOBUJQ" name="Party">
+      <modelElement href="DailyPlanner.uml#_tysk0DF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_viegZDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_viegZTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_viegZjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_viegZzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tytL4DF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_viegaDF3EeyfuqiXUOBUJQ" name="Party">
+          <modelElement href="DailyPlanner.uml#_tyrWsDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vjAE0DF3EeyfuqiXUOBUJQ" name="Presentation" generalizations="_vi6lQDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tyty8DF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vjAE0TF3EeyfuqiXUOBUJQ" position="1961.0,824.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vjAE0jF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vjAE0zF3EeyfuqiXUOBUJQ" name="Presentation">
+      <modelElement href="DailyPlanner.uml#_tyvBEDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vjAE1DF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vjAE1TF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vjAE1jF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vjAE1zF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyvBEzF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vjAE2DF3EeyfuqiXUOBUJQ" name="Presentation">
+          <modelElement href="DailyPlanner.uml#_tyty8DF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vja7kDF3EeyfuqiXUOBUJQ" name="ProjectTask" generalizations="_vnSu8DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tywPMDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vja7kTF3EeyfuqiXUOBUJQ" position="2409.0,1747.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vja7kjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vja7kzF3EeyfuqiXUOBUJQ" name="ProjectTask">
+      <modelElement href="DailyPlanner.uml#_tyw2QDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vja7lDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vja7lTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vja7ljF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vja7lzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyxdUjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vja7mDF3EeyfuqiXUOBUJQ" name="ProjectTask">
+          <modelElement href="DailyPlanner.uml#_tywPMDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vkfSkDF3EeyfuqiXUOBUJQ" name="RoutineTask" generalizations="_vnSu8TF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tyyrcDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vkfSkTF3EeyfuqiXUOBUJQ" position="2679.0,1734.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vkfSkjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vkfSkzF3EeyfuqiXUOBUJQ" name="RoutineTask">
+      <modelElement href="DailyPlanner.uml#_tyzSgDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vkfSlDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vkfSlTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vkfSljF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vkfSlzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tyz5kjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vkfSmDF3EeyfuqiXUOBUJQ" name="RoutineTask">
+          <modelElement href="DailyPlanner.uml#_tyyrcDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vlA3ADF3EeyfuqiXUOBUJQ" name="Shopping" generalizations="_vk7XcDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_ty1HsDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vlA3ATF3EeyfuqiXUOBUJQ" position="2569.0,1968.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vlA3AjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vlA3AzF3EeyfuqiXUOBUJQ" name="Shopping">
+      <modelElement href="DailyPlanner.uml#_ty1uwDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vlA3BDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vlA3BTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vlA3BjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vlA3BzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_ty2V0jF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vlA3CDF3EeyfuqiXUOBUJQ" name="Shopping">
+          <modelElement href="DailyPlanner.uml#_ty1HsDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vlmF0DF3EeyfuqiXUOBUJQ" name="Sponsorship" generalizations="_vlHksDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_ty284DF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vlmF0TF3EeyfuqiXUOBUJQ" position="1418.0,824.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vlmF0jF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vlmF0zF3EeyfuqiXUOBUJQ" name="Sponsorship">
+      <modelElement href="DailyPlanner.uml#_ty4LADF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vlmF1DF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vlmF1TF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vlmF1jF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vlmF1zF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_ty4LAzF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vlmF2DF3EeyfuqiXUOBUJQ" name="Sponsorship">
+          <modelElement href="DailyPlanner.uml#_ty284DF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vmxKgDF3EeyfuqiXUOBUJQ" name="Storage" associationsOut="_vlxE8DF3EeyfuqiXUOBUJQ _vmHqQDF3EeyfuqiXUOBUJQ _vmKGgDF3EeyfuqiXUOBUJQ _vmwjcDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_ty5ZIDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vmxKgTF3EeyfuqiXUOBUJQ" position="969.0,606.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vmxKgjF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_vmxKgzF3EeyfuqiXUOBUJQ" name="events">
+      <modelElement href="DailyPlanner.uml#_t7sIwDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vmxKhDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7tW4DF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vmxKhTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vmxKhjF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_vmxKhzF3EeyfuqiXUOBUJQ" name="Event">
+        <modelElement href="DailyPlanner.uml#_tydUQDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vmxKiDF3EeyfuqiXUOBUJQ" name="tasks">
+      <modelElement href="DailyPlanner.uml#_t7tW4TF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vmxKiTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7t98DF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vmxKijF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vmxKizF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_vmxKjDF3EeyfuqiXUOBUJQ" name="Task">
+        <modelElement href="DailyPlanner.uml#_tzFmYDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vmxKjTF3EeyfuqiXUOBUJQ" name="appointments">
+      <modelElement href="DailyPlanner.uml#_t7ulADF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vmxKjjF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7vMEDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vmxKjzF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vmxKkDF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_vmxKkTF3EeyfuqiXUOBUJQ" name="Appointment">
+        <modelElement href="DailyPlanner.uml#_tyRHADF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vmxKkjF3EeyfuqiXUOBUJQ" name="errands">
+      <modelElement href="DailyPlanner.uml#_t7vzIDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vmxKkzF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7waMDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vmxKlDF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vmxKlTF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_vmxKljF3EeyfuqiXUOBUJQ" name="Errand">
+        <modelElement href="DailyPlanner.uml#_tya4ADF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_vmxxkDF3EeyfuqiXUOBUJQ" name="Storage">
+      <modelElement href="DailyPlanner.uml#_ty6nQDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vmxxkTF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vmxxkjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmxxkzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vmxxlDF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_ty7OUjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vmxxlTF3EeyfuqiXUOBUJQ" name="Storage">
+          <modelElement href="DailyPlanner.uml#_ty5ZIDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vmxxljF3EeyfuqiXUOBUJQ" name="createEventsIterator">
+      <modelElement href="DailyPlanner.uml#_ty8ccDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vmxxlzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmxxmDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vmxxmTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6JQoDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vmxxmjF3EeyfuqiXUOBUJQ" name="Iterator">
+          <modelElement href="DailyPlanner.uml#_tzufkDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vmxxmzF3EeyfuqiXUOBUJQ" name="createTaskIterator">
+      <modelElement href="DailyPlanner.uml#_ty9DgDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vmxxnDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmxxnTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vmxxnjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6J3sDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vmxxnzF3EeyfuqiXUOBUJQ" name="Iterator">
+          <modelElement href="DailyPlanner.uml#_tzufkDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vmxxoDF3EeyfuqiXUOBUJQ" name="createAppointmentIterator">
+      <modelElement href="DailyPlanner.uml#_ty9qkDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vmxxoTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmxxojF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vmxxozF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6J3sTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vmxxpDF3EeyfuqiXUOBUJQ" name="Iterator">
+          <modelElement href="DailyPlanner.uml#_tzufkDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vmxxpTF3EeyfuqiXUOBUJQ" name="createErrandIterator">
+      <modelElement href="DailyPlanner.uml#_ty-4sDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vmxxpjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmxxpzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vmxxqDF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6J3sjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vmxxqTF3EeyfuqiXUOBUJQ" name="Iterator">
+          <modelElement href="DailyPlanner.uml#_tzufkDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vmxxqjF3EeyfuqiXUOBUJQ" name="addEvent">
+      <modelElement href="DailyPlanner.uml#_t6GNUDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vmxxqzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmxxrDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vmxxrTF3EeyfuqiXUOBUJQ" name="event">
+        <modelElement href="DailyPlanner.uml#_t6GNUTF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vmxxrjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vmxxrzF3EeyfuqiXUOBUJQ" name="Event">
+          <modelElement href="DailyPlanner.uml#_tydUQDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_vmxxsDF3EeyfuqiXUOBUJQ" name="addTask">
+      <modelElement href="DailyPlanner.uml#_t6HbcDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vmxxsTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmxxsjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vmxxszF3EeyfuqiXUOBUJQ" name="task">
+        <modelElement href="DailyPlanner.uml#_t6HbcTF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vmxxtDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vmxxtTF3EeyfuqiXUOBUJQ" name="Task">
+          <modelElement href="DailyPlanner.uml#_tzFmYDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_vmxxtjF3EeyfuqiXUOBUJQ" name="addAppointment">
+      <modelElement href="DailyPlanner.uml#_t6ICgDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vmxxtzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmxxuDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vmxxuTF3EeyfuqiXUOBUJQ" name="appointment">
+        <modelElement href="DailyPlanner.uml#_t6ICgTF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vmxxujF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vmxxuzF3EeyfuqiXUOBUJQ" name="Appointment">
+          <modelElement href="DailyPlanner.uml#_tyRHADF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_vmxxvDF3EeyfuqiXUOBUJQ" name="addErrand">
+      <modelElement href="DailyPlanner.uml#_t6IpkDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vmxxvTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vmxxvjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vmxxvzF3EeyfuqiXUOBUJQ" name="errand">
+        <modelElement href="DailyPlanner.uml#_t6IpkTF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vmxxwDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vmxxwTF3EeyfuqiXUOBUJQ" name="Errand">
+          <modelElement href="DailyPlanner.uml#_tya4ADF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_voFZIDF3EeyfuqiXUOBUJQ" name="Task" associationsIn="_vmwjcDF3EeyfuqiXUOBUJQ _v4J1cDF3EeyfuqiXUOBUJQ" generalizations="_vnRg0DF3EeyfuqiXUOBUJQ" subclassedBy="_vnSH4DF3EeyfuqiXUOBUJQ _vnSu8DF3EeyfuqiXUOBUJQ _vnSu8TF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tzFmYDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_voFZITF3EeyfuqiXUOBUJQ" position="2456.0,460.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_voFZIjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_voFZIzF3EeyfuqiXUOBUJQ" name="Task">
+      <modelElement href="DailyPlanner.uml#_tzG0gDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_voFZJDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_voFZJTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_voFZJjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_voFZJzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tzHbkjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_voFZKDF3EeyfuqiXUOBUJQ" name="Task">
+          <modelElement href="DailyPlanner.uml#_tzFmYDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vo3cQDF3EeyfuqiXUOBUJQ" name="TradeExpo" generalizations="_vou5YDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tzIpsDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vo3cQTF3EeyfuqiXUOBUJQ" position="2234.0,837.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vo3cQjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vo3cQzF3EeyfuqiXUOBUJQ" name="TradeExpo">
+      <modelElement href="DailyPlanner.uml#_tzJQwDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vo3cRDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vo3cRTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vo3cRjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vo3cRzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tzJ30jF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vo3cSDF3EeyfuqiXUOBUJQ" name="TradeExpo">
+          <modelElement href="DailyPlanner.uml#_tzIpsDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vpqtgDF3EeyfuqiXUOBUJQ" name="UrgentAppointment" generalizations="_vpiKoDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tzLF8DF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vpqtgTF3EeyfuqiXUOBUJQ" position="18.0,1968.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vpqtgjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vpqtgzF3EeyfuqiXUOBUJQ" name="UrgentAppointment">
+      <modelElement href="DailyPlanner.uml#_tzLtADF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vpqthDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vpqthTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vpqthjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vpqthzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tzMUEjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vpqtiDF3EeyfuqiXUOBUJQ" name="UrgentAppointment">
+          <modelElement href="DailyPlanner.uml#_tzLF8DF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vqS_oDF3EeyfuqiXUOBUJQ" name="ActivityBuilder" abstractClass="true" subclassedBy="_vrOzwDF3EeyfuqiXUOBUJQ _vsq-MDF3EeyfuqiXUOBUJQ _vuGhkDF3EeyfuqiXUOBUJQ _vxbiYDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vqS_oTF3EeyfuqiXUOBUJQ" position="335.0,2143.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vqS_ojF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_vqS_ozF3EeyfuqiXUOBUJQ" name="name">
+      <modelElement href="DailyPlanner.uml#_t7OOsDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vqS_pDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7O1wDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vqS_pTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vqS_pjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vqS_pzF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vqS_qDF3EeyfuqiXUOBUJQ" name="activityName">
+      <modelElement href="DailyPlanner.uml#_t7Pc0DF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vqS_qTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7QD4DF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vqS_qjF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vqS_qzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vqS_rDF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vqS_rTF3EeyfuqiXUOBUJQ" name="activityDescription">
+      <modelElement href="DailyPlanner.uml#_t7Qq8DF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vqS_rjF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7RSADF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vqS_rzF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vqS_sDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vqS_sTF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vqS_sjF3EeyfuqiXUOBUJQ" name="activityNotes">
+      <modelElement href="DailyPlanner.uml#_t7RSATF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vqS_szF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7R5EDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vqS_tDF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vqS_tTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vqS_tjF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vqS_tzF3EeyfuqiXUOBUJQ" name="activityStartDate">
+      <modelElement href="DailyPlanner.uml#_t7SgIDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vqS_uDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7THMDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vqS_uTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vqS_ujF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vqS_uzF3EeyfuqiXUOBUJQ" name="Date">
+        <modelElement href="DailyPlanner.uml#_t6rcIDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vqS_vDF3EeyfuqiXUOBUJQ" name="activityEndDate">
+      <modelElement href="DailyPlanner.uml#_t7TuQDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vqS_vTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7UVUDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vqS_vjF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vqS_vzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vqS_wDF3EeyfuqiXUOBUJQ" name="Date">
+        <modelElement href="DailyPlanner.uml#_t6rcIDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_vqS_wTF3EeyfuqiXUOBUJQ" abstractOperation="true" name="addName">
+      <modelElement href="DailyPlanner.uml#_txNXEDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vqS_wjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vqS_wzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vqS_xDF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5hlkDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vqS_xTF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vqS_xjF3EeyfuqiXUOBUJQ" abstractOperation="true" name="addDescription">
+      <modelElement href="DailyPlanner.uml#_txOlMDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vqS_xzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vqS_yDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vqS_yTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5hlkTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vqS_yjF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vqS_yzF3EeyfuqiXUOBUJQ" abstractOperation="true" name="addNotes">
+      <modelElement href="DailyPlanner.uml#_txPMQDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vqS_zDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vqS_zTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vqS_zjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5hlkjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vqS_zzF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vqS_0DF3EeyfuqiXUOBUJQ" abstractOperation="true" name="addStartDate">
+      <modelElement href="DailyPlanner.uml#_txPzUDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vqS_0TF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vqS_0jF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vqS_0zF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5iMoDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vqS_1DF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vqS_1TF3EeyfuqiXUOBUJQ" abstractOperation="true" name="addEndDate">
+      <modelElement href="DailyPlanner.uml#_txRBcDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vqS_1jF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vqS_1zF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vqS_2DF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5iMoTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vqS_2TF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vqS_2jF3EeyfuqiXUOBUJQ" name="build">
+      <modelElement href="DailyPlanner.uml#_txRogDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vqS_2zF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vqS_3DF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vqS_3TF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5iMojF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vqS_3jF3EeyfuqiXUOBUJQ" name="Activity">
+          <modelElement href="DailyPlanner.uml#_tyESsDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vsR8oDF3EeyfuqiXUOBUJQ" name="AppointmentBuilder" associationsOut="_vr2e0DF3EeyfuqiXUOBUJQ" generalizations="_vrOzwDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_txXvIDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vsR8oTF3EeyfuqiXUOBUJQ" position="1132.0,3004.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vsR8ojF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_vsSjsDF3EeyfuqiXUOBUJQ" defaultValue="new KeyboardScanner()" name="scanner">
+      <modelElement href="DailyPlanner.uml#_t7U8YDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vsSjsTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7WKgDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vsSjsjF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vsSjszF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vsSjtDF3EeyfuqiXUOBUJQ" name="KeyboardScanner">
+        <modelElement href="DailyPlanner.uml#_txwwsDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vsSjtTF3EeyfuqiXUOBUJQ" name="name">
+      <modelElement href="DailyPlanner.uml#_t7WKgTF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vsSjtjF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7WxkDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vsSjtzF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vsSjuDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vsSjuTF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_vsSjujF3EeyfuqiXUOBUJQ" name="AppointmentBuilder">
+      <modelElement href="DailyPlanner.uml#_txY9QDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vsSjuzF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vsSjvDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vsSjvTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vsSjvjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_txZkUjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vsSjvzF3EeyfuqiXUOBUJQ" name="AppointmentBuilder">
+          <modelElement href="DailyPlanner.uml#_txXvIDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vsSjwDF3EeyfuqiXUOBUJQ" name="addName">
+      <modelElement href="DailyPlanner.uml#_txaLYDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vsSjwTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vsSjwjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vsSjwzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5oTQDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vsSjxDF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vsSjxTF3EeyfuqiXUOBUJQ" name="addDescription">
+      <modelElement href="DailyPlanner.uml#_txaycDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vsSjxjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vsSjxzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vsSjyDF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5o6UDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vsSjyTF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vsSjyjF3EeyfuqiXUOBUJQ" name="addNotes">
+      <modelElement href="DailyPlanner.uml#_txbZgDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vsSjyzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vsSjzDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vsSjzTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5o6UTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vsSjzjF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vsSjzzF3EeyfuqiXUOBUJQ" name="addStartDate">
+      <modelElement href="DailyPlanner.uml#_txcAkDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vsSj0DF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vsSj0TF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vsSj0jF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5phYDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vsSj0zF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vsSj1DF3EeyfuqiXUOBUJQ" name="addEndDate">
+      <modelElement href="DailyPlanner.uml#_txcAkTF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vsSj1TF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vsSj1jF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vsSj1zF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5phYTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vsSj2DF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vtSCMDF3EeyfuqiXUOBUJQ" name="ErrandBuilder" associationsOut="_vtMioDF3EeyfuqiXUOBUJQ" generalizations="_vsq-MDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_txfq8DF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vtSCMTF3EeyfuqiXUOBUJQ" position="608.0,2510.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vtSCMjF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_vtSCMzF3EeyfuqiXUOBUJQ" defaultValue="new KeyboardScanner()" name="scanner">
+      <modelElement href="DailyPlanner.uml#_t7X_sDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vtSCNDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7YmwDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vtSCNTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vtSCNjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vtSCNzF3EeyfuqiXUOBUJQ" name="KeyboardScanner">
+        <modelElement href="DailyPlanner.uml#_txwwsDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vtSCODF3EeyfuqiXUOBUJQ" name="name">
+      <modelElement href="DailyPlanner.uml#_t7YmwTF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vtSCOTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7ZN0DF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vtSCOjF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vtSCOzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vtSCPDF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_vtSCPTF3EeyfuqiXUOBUJQ" name="ErrandBuilder">
+      <modelElement href="DailyPlanner.uml#_txg5EDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vtSCPjF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vtSCPzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vtSCQDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vtSCQTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_txhgITF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vtSCQjF3EeyfuqiXUOBUJQ" name="ErrandBuilder">
+          <modelElement href="DailyPlanner.uml#_txfq8DF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vtSCQzF3EeyfuqiXUOBUJQ" name="addName">
+      <modelElement href="DailyPlanner.uml#_txhgIjF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vtSCRDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vtSCRTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vtSCRjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5sksDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vtSCRzF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vtSCSDF3EeyfuqiXUOBUJQ" name="addDescription">
+      <modelElement href="DailyPlanner.uml#_txiHMDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vtSCSTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vtSCSjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vtSCSzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5sksTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vtSCTDF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vtSCTTF3EeyfuqiXUOBUJQ" name="addNotes">
+      <modelElement href="DailyPlanner.uml#_txiuQDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vtSCTjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vtSCTzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vtSCUDF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5tLwDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vtSCUTF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vtSCUjF3EeyfuqiXUOBUJQ" name="addStartDate">
+      <modelElement href="DailyPlanner.uml#_txj8YDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vtSCUzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vtSCVDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vtSCVTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5tLwTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vtSCVjF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vtSCVzF3EeyfuqiXUOBUJQ" name="addEndDate">
+      <modelElement href="DailyPlanner.uml#_txkjcDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vtSCWDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vtSCWTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vtSCWjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5tLwjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vtSCWzF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vu6Z4DF3EeyfuqiXUOBUJQ" name="EventBuilder" associationsOut="_vuuzsDF3EeyfuqiXUOBUJQ" generalizations="_vuGhkDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_txoN0DF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vu6Z4TF3EeyfuqiXUOBUJQ" position="10.0,2510.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vu6Z4jF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_vu6Z4zF3EeyfuqiXUOBUJQ" defaultValue="new KeyboardScanner()" name="scanner">
+      <modelElement href="DailyPlanner.uml#_t7ab8DF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vu6Z5DF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7bDADF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vu6Z5TF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vu6Z5jF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vu6Z5zF3EeyfuqiXUOBUJQ" name="KeyboardScanner">
+        <modelElement href="DailyPlanner.uml#_txwwsDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vu6Z6DF3EeyfuqiXUOBUJQ" name="name">
+      <modelElement href="DailyPlanner.uml#_t7bDATF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vu6Z6TF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7cRIDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vu6Z6jF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vu6Z6zF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vu6Z7DF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_vu6Z7TF3EeyfuqiXUOBUJQ" name="EventBuilder">
+      <modelElement href="DailyPlanner.uml#_txpb8DF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vu6Z7jF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vu6Z7zF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vu6Z8DF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vu6Z8TF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_txqDADF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vu6Z8jF3EeyfuqiXUOBUJQ" name="EventBuilder">
+          <modelElement href="DailyPlanner.uml#_txoN0DF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vu6Z8zF3EeyfuqiXUOBUJQ" name="addName">
+      <modelElement href="DailyPlanner.uml#_txqDATF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vu6Z9DF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vu6Z9TF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vu6Z9jF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5w2IDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vu6Z9zF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vu6Z-DF3EeyfuqiXUOBUJQ" name="addDescription">
+      <modelElement href="DailyPlanner.uml#_txqqEDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vu6Z-TF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vu6Z-jF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vu6Z-zF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5xdMDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vu6Z_DF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vu6Z_TF3EeyfuqiXUOBUJQ" name="addNotes">
+      <modelElement href="DailyPlanner.uml#_txr4MDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vu6Z_jF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vu6Z_zF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vu6aADF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5xdMTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vu6aATF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vu6aAjF3EeyfuqiXUOBUJQ" name="addStartDate">
+      <modelElement href="DailyPlanner.uml#_txsfQDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vu6aAzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vu6aBDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vu6aBTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5yEQDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vu6aBjF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vu6aBzF3EeyfuqiXUOBUJQ" name="addEndDate">
+      <modelElement href="DailyPlanner.uml#_txtGUDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vu6aCDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vu6aCTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vu6aCjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t5yEQTF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vu6aCzF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vwYZgDF3EeyfuqiXUOBUJQ" name="KeyboardScanner" associationsIn="_vr2e0DF3EeyfuqiXUOBUJQ _vtMioDF3EeyfuqiXUOBUJQ _vuuzsDF3EeyfuqiXUOBUJQ _vwtwsDF3EeyfuqiXUOBUJQ" associationsOut="_vv-J0DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_txwwsDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vwYZgTF3EeyfuqiXUOBUJQ" position="590.0,2960.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vwYZgjF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_vwYZgzF3EeyfuqiXUOBUJQ" name="name">
+      <modelElement href="DailyPlanner.uml#_t7c4MDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vwYZhDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7dfQDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vwYZhTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vwYZhjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vwYZhzF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vwYZiDF3EeyfuqiXUOBUJQ" name="dataInt">
+      <modelElement href="DailyPlanner.uml#_t7eGUDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vwYZiTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7etYDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vwYZijF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vwYZizF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vwYZjDF3EeyfuqiXUOBUJQ" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vwYZjTF3EeyfuqiXUOBUJQ" name="dataString">
+      <modelElement href="DailyPlanner.uml#_t7etYTF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vwYZjjF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7f7gDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vwYZjzF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vwYZkDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vwYZkTF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vwYZkjF3EeyfuqiXUOBUJQ" name="dataDate">
+      <modelElement href="DailyPlanner.uml#_t7f7gTF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vwYZkzF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7gikDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vwYZlDF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vwYZlTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vwYZljF3EeyfuqiXUOBUJQ" name="Date">
+        <modelElement href="DailyPlanner.uml#_t6rcIDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vwYZlzF3EeyfuqiXUOBUJQ" name="input">
+      <modelElement href="DailyPlanner.uml#_t7hJoDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vwYZmDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7hwsDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vwYZmTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vwYZmjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vwYZmzF3EeyfuqiXUOBUJQ" name="Scanner">
+        <modelElement href="DailyPlanner.uml#_t6ZvUDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_vwYZnDF3EeyfuqiXUOBUJQ" name="KeyboardScanner">
+      <modelElement href="DailyPlanner.uml#_txzM8DF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vwYZnTF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vwYZnjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vwYZnzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vwYZoDF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_txzM8zF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vwYZoTF3EeyfuqiXUOBUJQ" name="KeyboardScanner">
+          <modelElement href="DailyPlanner.uml#_txwwsDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vwYZojF3EeyfuqiXUOBUJQ" name="getInt">
+      <modelElement href="DailyPlanner.uml#_txz0ADF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vwYZozF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vwYZpDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vwYZpTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tx0bEDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vwYZpjF3EeyfuqiXUOBUJQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vwYZpzF3EeyfuqiXUOBUJQ" name="getName">
+      <modelElement href="DailyPlanner.uml#_tx1CIDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vwYZqDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vwYZqTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vwYZqjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tx1CITF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vwYZqzF3EeyfuqiXUOBUJQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vwYZrDF3EeyfuqiXUOBUJQ" name="setName">
+      <modelElement href="DailyPlanner.uml#_tx1pMDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vwYZrTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vwYZrjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vwYZrzF3EeyfuqiXUOBUJQ" name="name">
+        <modelElement href="DailyPlanner.uml#_tx2QQDF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vwYZsDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vwYZsTF3EeyfuqiXUOBUJQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_vwYZsjF3EeyfuqiXUOBUJQ" name="getString">
+      <modelElement href="DailyPlanner.uml#_tx2QQTF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vwYZszF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vwYZtDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vwYZtTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tx23UDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vwYZtjF3EeyfuqiXUOBUJQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vwYZtzF3EeyfuqiXUOBUJQ" name="getDate">
+      <modelElement href="DailyPlanner.uml#_tx3eYDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vwYZuDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vwYZuTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vwYZujF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6w7sDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vwYZuzF3EeyfuqiXUOBUJQ" name="Date">
+          <modelElement href="DailyPlanner.uml#_t6rcIDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vxksUDF3EeyfuqiXUOBUJQ" name="TaskBuilder" associationsOut="_vwtwsDF3EeyfuqiXUOBUJQ" generalizations="_vxbiYDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tx7v0DF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vxksUTF3EeyfuqiXUOBUJQ" position="309.0,2510.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vxksUjF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_vxksUzF3EeyfuqiXUOBUJQ" defaultValue="new KeyboardScanner()" name="scanner">
+      <modelElement href="DailyPlanner.uml#_t7iXwDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vxksVDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7jl4DF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vxksVTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vxksVjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vxksVzF3EeyfuqiXUOBUJQ" name="KeyboardScanner">
+        <modelElement href="DailyPlanner.uml#_txwwsDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vxksWDF3EeyfuqiXUOBUJQ" name="name">
+      <modelElement href="DailyPlanner.uml#_t7jl4TF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vxksWTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7k0ADF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vxksWjF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vxksWzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vxksXDF3EeyfuqiXUOBUJQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_vxksXTF3EeyfuqiXUOBUJQ" name="TaskBuilder">
+      <modelElement href="DailyPlanner.uml#_tx898DF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vxksXjF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vxksXzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vxksYDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vxksYTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tx9lATF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vxksYjF3EeyfuqiXUOBUJQ" name="TaskBuilder">
+          <modelElement href="DailyPlanner.uml#_tx7v0DF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vxksYzF3EeyfuqiXUOBUJQ" name="addName">
+      <modelElement href="DailyPlanner.uml#_tx9lAjF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vxksZDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vxksZTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vxksZjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t56AEDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vxksZzF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vxksaDF3EeyfuqiXUOBUJQ" name="addDescription">
+      <modelElement href="DailyPlanner.uml#_tx-zIDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vxksaTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vxksajF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vxksazF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t56AETF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vxksbDF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vxksbTF3EeyfuqiXUOBUJQ" name="addNotes">
+      <modelElement href="DailyPlanner.uml#_tx_aMDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vxksbjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vxksbzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vxkscDF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t56nIDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vxkscTF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vxkscjF3EeyfuqiXUOBUJQ" name="addStartDate">
+      <modelElement href="DailyPlanner.uml#_tyABQDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vxksczF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vxksdDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vxksdTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t56nITF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vxksdjF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vxksdzF3EeyfuqiXUOBUJQ" name="addEndDate">
+      <modelElement href="DailyPlanner.uml#_tyAoUDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vxkseDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vxkseTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vxksejF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t57OMDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vxksezF3EeyfuqiXUOBUJQ" name="ActivityBuilder">
+          <modelElement href="DailyPlanner.uml#_txKTwDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vyBYQDF3EeyfuqiXUOBUJQ" name="Context" associationsOut="_vx7RoDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tz768DF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vyBYQTF3EeyfuqiXUOBUJQ" position="2164.0,2154.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vyBYQjF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_vyBYQzF3EeyfuqiXUOBUJQ" name="state">
+      <modelElement href="DailyPlanner.uml#_t79OgDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vyBYRDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t791kDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vyBYRTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vyBYRjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vyBYRzF3EeyfuqiXUOBUJQ" name="State">
+        <modelElement href="DailyPlanner.uml#_t0CooDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_vyBYSDF3EeyfuqiXUOBUJQ" name="Context">
+      <modelElement href="DailyPlanner.uml#_tz9wIDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vyBYSTF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vyBYSjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vyBYSzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vyBYTDF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tz9wIzF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vyBYTTF3EeyfuqiXUOBUJQ" name="Context">
+          <modelElement href="DailyPlanner.uml#_tz768DF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vyBYTjF3EeyfuqiXUOBUJQ" name="getState">
+      <modelElement href="DailyPlanner.uml#_tz-XMDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vyBYTzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vyBYUDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vyBYUTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6ZIQDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vyBYUjF3EeyfuqiXUOBUJQ" name="State">
+          <modelElement href="DailyPlanner.uml#_t0CooDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vyBYUzF3EeyfuqiXUOBUJQ" name="setState">
+      <modelElement href="DailyPlanner.uml#_t6YhMDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vyBYVDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vyBYVTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vyBYVjF3EeyfuqiXUOBUJQ" name="state">
+        <modelElement href="DailyPlanner.uml#_t6YhMTF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vyBYVzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vyBYWDF3EeyfuqiXUOBUJQ" name="State">
+          <modelElement href="DailyPlanner.uml#_t0CooDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vynOIDF3EeyfuqiXUOBUJQ" name="MainMenuState" generalizations="_vyiVoDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t0AMYDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vynOITF3EeyfuqiXUOBUJQ" position="1977.0,2319.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vynOIjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vynOIzF3EeyfuqiXUOBUJQ" name="posStatus">
+      <modelElement href="DailyPlanner.uml#_t6cyoDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vynOJDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t6eAwDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_vynOJTF3EeyfuqiXUOBUJQ" name="Annotations">
+        <modelElement href="DailyPlanner.uml#_t6en0DF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vynOJjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vynOJzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vynOKDF3EeyfuqiXUOBUJQ" name="context">
+        <modelElement href="DailyPlanner.uml#_t6cyoTF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vynOKTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vynOKjF3EeyfuqiXUOBUJQ" name="Context">
+          <modelElement href="DailyPlanner.uml#_tz768DF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_vynOKzF3EeyfuqiXUOBUJQ" name="storage">
+        <modelElement href="DailyPlanner.uml#_t6cyojF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vynOLDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vynOLTF3EeyfuqiXUOBUJQ" name="Storage">
+          <modelElement href="DailyPlanner.uml#_ty5ZIDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_vyrfkDF3EeyfuqiXUOBUJQ" name="State" associationsIn="_vx7RoDF3EeyfuqiXUOBUJQ" subclassedBy="_vyiVoDF3EeyfuqiXUOBUJQ _vy3s0DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t0CooDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vyrfkTF3EeyfuqiXUOBUJQ" position="1589.0,2166.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vyrfkjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vyrfkzF3EeyfuqiXUOBUJQ" name="posStatus">
+      <modelElement href="DailyPlanner.uml#_t6fO4DF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_vyrflDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vyrflTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vyrfljF3EeyfuqiXUOBUJQ" name="context">
+        <modelElement href="DailyPlanner.uml#_t6f18DF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vyrflzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vyrfmDF3EeyfuqiXUOBUJQ" name="Context">
+          <modelElement href="DailyPlanner.uml#_tz768DF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_vyrfmTF3EeyfuqiXUOBUJQ" name="storage">
+        <modelElement href="DailyPlanner.uml#_t6f18TF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vyrfmjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vyrfmzF3EeyfuqiXUOBUJQ" name="Storage">
+          <modelElement href="DailyPlanner.uml#_ty5ZIDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vzn6wDF3EeyfuqiXUOBUJQ" name="ViewAllActivitiesState" generalizations="_vy3s0DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_t0FE4DF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vzn6wTF3EeyfuqiXUOBUJQ" position="1548.0,2332.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vzn6wjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_vzn6wzF3EeyfuqiXUOBUJQ" name="posStatus">
+      <modelElement href="DailyPlanner.uml#_t6hEEDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vzn6xDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t6iSMDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_vzn6xTF3EeyfuqiXUOBUJQ" name="Annotations">
+        <modelElement href="DailyPlanner.uml#_t6i5QDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vzn6xjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vzn6xzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_vzn6yDF3EeyfuqiXUOBUJQ" name="context">
+        <modelElement href="DailyPlanner.uml#_t6hEETF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vzn6yTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vzn6yjF3EeyfuqiXUOBUJQ" name="Context">
+          <modelElement href="DailyPlanner.uml#_tz768DF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_vzn6yzF3EeyfuqiXUOBUJQ" name="storage">
+        <modelElement href="DailyPlanner.uml#_t6hrIDF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vzn6zDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vzn6zTF3EeyfuqiXUOBUJQ" name="Storage">
+          <modelElement href="DailyPlanner.uml#_ty5ZIDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vz4ZcDF3EeyfuqiXUOBUJQ" name="AppointmentIterator" associationsOut="_vzrlIDF3EeyfuqiXUOBUJQ" generalizations="_vztaUDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tzNiMDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_vz4ZcTF3EeyfuqiXUOBUJQ" position="1899.0,1126.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_vz4ZcjF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_vz4ZczF3EeyfuqiXUOBUJQ" name="appointments">
+      <modelElement href="DailyPlanner.uml#_t7xoUDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vz4ZdDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7y2cDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vz4ZdTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vz4ZdjF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_vz4ZdzF3EeyfuqiXUOBUJQ" name="Appointment">
+        <modelElement href="DailyPlanner.uml#_tyRHADF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vz4ZeDF3EeyfuqiXUOBUJQ" defaultValue="0" name="position">
+      <modelElement href="DailyPlanner.uml#_t7y2cTF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vz4ZeTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t7zdgDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vz4ZejF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_vz4ZezF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_vz4ZfDF3EeyfuqiXUOBUJQ" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_vz4ZfTF3EeyfuqiXUOBUJQ" name="next">
+      <modelElement href="DailyPlanner.uml#_tzRMkDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vz4ZfjF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_tzTBwDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_vz4ZfzF3EeyfuqiXUOBUJQ" name="Annotations">
+        <modelElement href="DailyPlanner.uml#_tzUP4DF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vz4ZgDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vz4ZgTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vz4ZgjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6OJIDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vz4ZgzF3EeyfuqiXUOBUJQ" name="Activity">
+          <modelElement href="DailyPlanner.uml#_tyESsDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vz4ZhDF3EeyfuqiXUOBUJQ" name="hasNext">
+      <modelElement href="DailyPlanner.uml#_tzU28DF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_vz4ZhTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_tzWFEDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_vz4ZhjF3EeyfuqiXUOBUJQ" name="Annotations">
+        <modelElement href="DailyPlanner.uml#_tzWsIDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_vz4ZhzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vz4ZiDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vz4ZiTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tzVeADF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vz4ZijF3EeyfuqiXUOBUJQ" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vz4ZizF3EeyfuqiXUOBUJQ" name="AppointmentIterator">
+      <modelElement href="DailyPlanner.uml#_t67TwTF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_vz4ZjDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_vz4ZjTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_vz4ZjjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vz4ZjzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6760jF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_vz4ZkDF3EeyfuqiXUOBUJQ" name="AppointmentIterator">
+          <modelElement href="DailyPlanner.uml#_tzNiMDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_vz4ZkTF3EeyfuqiXUOBUJQ" name="appointments">
+        <modelElement href="DailyPlanner.uml#_t67TwjF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_vz4ZkjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_vz4ZkzF3EeyfuqiXUOBUJQ" name="List">
+          <modelElement href="DailyPlanner.uml#_t65ekDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_v1YOQDF3EeyfuqiXUOBUJQ" name="ErrandIterator" associationsOut="_v0sRwDF3EeyfuqiXUOBUJQ" generalizations="_v0tf4DF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tzZIYDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_v1YOQTF3EeyfuqiXUOBUJQ" position="1165.0,1555.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_v1YOQjF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_v1YOQzF3EeyfuqiXUOBUJQ" name="errands">
+      <modelElement href="DailyPlanner.uml#_t70roDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v1YORDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t71SsDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v1YORTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_v1YORjF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_v1YORzF3EeyfuqiXUOBUJQ" name="Errand">
+        <modelElement href="DailyPlanner.uml#_tya4ADF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_v1YOSDF3EeyfuqiXUOBUJQ" defaultValue="0" name="position">
+      <modelElement href="DailyPlanner.uml#_t715wDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v1YOSTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t72g0DF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v1YOSjF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_v1YOSzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_v1YOTDF3EeyfuqiXUOBUJQ" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_v1YOTTF3EeyfuqiXUOBUJQ" name="next">
+      <modelElement href="DailyPlanner.uml#_tzbkoDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v1YOTjF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_tzcywDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_v1YOTzF3EeyfuqiXUOBUJQ" name="Annotations">
+        <modelElement href="DailyPlanner.uml#_tzfPADF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v1YOUDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v1YOUTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_v1YOUjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6RMcDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_v1YOUzF3EeyfuqiXUOBUJQ" name="Activity">
+          <modelElement href="DailyPlanner.uml#_tyESsDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_v1YOVDF3EeyfuqiXUOBUJQ" name="hasNext">
+      <modelElement href="DailyPlanner.uml#_tzf2EDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v1YOVTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_tzgdIDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_v1YOVjF3EeyfuqiXUOBUJQ" name="Annotations">
+        <modelElement href="DailyPlanner.uml#_tzhEMDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v1YOVzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v1YOWDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_v1YOWTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tzf2ETF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_v1YOWjF3EeyfuqiXUOBUJQ" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_v1YOWzF3EeyfuqiXUOBUJQ" name="ErrandIterator">
+      <modelElement href="DailyPlanner.uml#_t6-XEDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_v1YOXDF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_v1YOXTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v1YOXjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_v1YOXzF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6--IjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_v1YOYDF3EeyfuqiXUOBUJQ" name="ErrandIterator">
+          <modelElement href="DailyPlanner.uml#_tzZIYDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_v1YOYTF3EeyfuqiXUOBUJQ" name="errands">
+        <modelElement href="DailyPlanner.uml#_t6-XETF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_v1YOYjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_v1YOYzF3EeyfuqiXUOBUJQ" name="List">
+          <modelElement href="DailyPlanner.uml#_t65ekDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_v3IhwDF3EeyfuqiXUOBUJQ" name="EventIterator" associationsOut="_v2SNMDF3EeyfuqiXUOBUJQ" generalizations="_v3BNADF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tzkHgDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_v3IhwTF3EeyfuqiXUOBUJQ" position="1723.0,1386.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_v3IhwjF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_v3IhwzF3EeyfuqiXUOBUJQ" name="events">
+      <modelElement href="DailyPlanner.uml#_t73H4DF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v3IhxDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t74WADF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v3IhxTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_v3IhxjF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_v3IhxzF3EeyfuqiXUOBUJQ" name="Event">
+        <modelElement href="DailyPlanner.uml#_tydUQDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_v3IhyDF3EeyfuqiXUOBUJQ" defaultValue="0" name="position">
+      <modelElement href="DailyPlanner.uml#_t749EDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v3IhyTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t75kIDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v3IhyjF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_v3IhyzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_v3IhzDF3EeyfuqiXUOBUJQ" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_v3IhzTF3EeyfuqiXUOBUJQ" name="next">
+      <modelElement href="DailyPlanner.uml#_tzl8sDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v3IhzjF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_tzoY8DF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_v3IhzzF3EeyfuqiXUOBUJQ" name="Annotations">
+        <modelElement href="DailyPlanner.uml#_tzpAADF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v3Ih0DF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v3Ih0TF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_v3Ih0jF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6TosDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_v3Ih0zF3EeyfuqiXUOBUJQ" name="Activity">
+          <modelElement href="DailyPlanner.uml#_tyESsDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_v3Ih1DF3EeyfuqiXUOBUJQ" name="hasNext">
+      <modelElement href="DailyPlanner.uml#_tzpnETF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v3Ih1TF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_tzq1MDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_v3Ih1jF3EeyfuqiXUOBUJQ" name="Annotations">
+        <modelElement href="DailyPlanner.uml#_tzrcQDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v3Ih1zF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v3Ih2DF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_v3Ih2TF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tzqOIDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_v3Ih2jF3EeyfuqiXUOBUJQ" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_v3Ih2zF3EeyfuqiXUOBUJQ" name="EventIterator">
+      <modelElement href="DailyPlanner.uml#_t7CBcDF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_v3Ih3DF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_v3Ih3TF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v3Ih3jF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_v3Ih3zF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t7CogjF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_v3Ih4DF3EeyfuqiXUOBUJQ" name="EventIterator">
+          <modelElement href="DailyPlanner.uml#_tzkHgDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_v3Ih4TF3EeyfuqiXUOBUJQ" name="events">
+        <modelElement href="DailyPlanner.uml#_t7CBcTF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_v3Ih4jF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_v3Ih4zF3EeyfuqiXUOBUJQ" name="List">
+          <modelElement href="DailyPlanner.uml#_t65ekDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_v4AEcDF3EeyfuqiXUOBUJQ" name="Iterator" subclassedBy="_vztaUDF3EeyfuqiXUOBUJQ _v0tf4DF3EeyfuqiXUOBUJQ _v3BNADF3EeyfuqiXUOBUJQ _v4LDkDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tzufkDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_v4AEcTF3EeyfuqiXUOBUJQ" position="1641.0,972.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_v4AEcjF3EeyfuqiXUOBUJQ" label="+"/>
+    <operations xmi:id="_v4AEczF3EeyfuqiXUOBUJQ" name="next">
+      <modelElement href="DailyPlanner.uml#_tzvtsDF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_v4AEdDF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v4AEdTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_v4AEdjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6Vd4DF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_v4AEdzF3EeyfuqiXUOBUJQ" name="Activity">
+          <modelElement href="DailyPlanner.uml#_tyESsDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_v4AEeDF3EeyfuqiXUOBUJQ" name="hasNext">
+      <modelElement href="DailyPlanner.uml#_tzyxADF3EeyfuqiXUOBUJQ"/>
+      <visibility xmi:id="_v4AEeTF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v4AEejF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_v4AEezF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tzyxATF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_v4AEfDF3EeyfuqiXUOBUJQ" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_v43AEDF3EeyfuqiXUOBUJQ" name="TaskIterator" associationsOut="_v4J1cDF3EeyfuqiXUOBUJQ" generalizations="_v4LDkDF3EeyfuqiXUOBUJQ">
+    <modelElement href="DailyPlanner.uml#_tzzYEDF3EeyfuqiXUOBUJQ"/>
+    <visualProperties xmi:id="_v43AETF3EeyfuqiXUOBUJQ" position="1552.0,1555.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_v43AEjF3EeyfuqiXUOBUJQ" label="+"/>
+    <attributes xmi:id="_v43AEzF3EeyfuqiXUOBUJQ" name="tasks">
+      <modelElement href="DailyPlanner.uml#_t76LMDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v43AFDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t77ZUDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v43nIDF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_v43nITF3EeyfuqiXUOBUJQ" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_v43nIjF3EeyfuqiXUOBUJQ" name="Task">
+        <modelElement href="DailyPlanner.uml#_tzFmYDF3EeyfuqiXUOBUJQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_v43nIzF3EeyfuqiXUOBUJQ" defaultValue="0" name="position">
+      <modelElement href="DailyPlanner.uml#_t77ZUTF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v43nJDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_t78ncDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v43nJTF3EeyfuqiXUOBUJQ" label="~"/>
+      <cardinality xmi:id="_v43nJjF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <type xmi:id="_v43nJzF3EeyfuqiXUOBUJQ" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_v43nKDF3EeyfuqiXUOBUJQ" name="next">
+      <modelElement href="DailyPlanner.uml#_tz1NQDF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v43nKTF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_tz10UDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_v43nKjF3EeyfuqiXUOBUJQ" name="Annotations">
+        <modelElement href="DailyPlanner.uml#_tz2bYDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v43nKzF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v43nLDF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_v43nLTF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t6WsADF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_v43nLjF3EeyfuqiXUOBUJQ" name="Activity">
+          <modelElement href="DailyPlanner.uml#_tyESsDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_v43nLzF3EeyfuqiXUOBUJQ" name="hasNext">
+      <modelElement href="DailyPlanner.uml#_tz3CcTF3EeyfuqiXUOBUJQ"/>
+      <stereotypes xmi:id="_v43nMDF3EeyfuqiXUOBUJQ" name="LegacyStyledElement">
+        <modelElement href="DailyPlanner.uml#_tz3pgTF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_v43nMTF3EeyfuqiXUOBUJQ" name="Annotations">
+        <modelElement href="DailyPlanner.uml#_tz4QkDF3EeyfuqiXUOBUJQ"/>
+      </stereotypes>
+      <visibility xmi:id="_v43nMjF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v43nMzF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_v43nNDF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_tz3pgDF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_v43nNTF3EeyfuqiXUOBUJQ" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_v43nNjF3EeyfuqiXUOBUJQ" name="TaskIterator">
+      <modelElement href="DailyPlanner.uml#_t7Fr0DF3EeyfuqiXUOBUJQ"/>
+      <keywords xmi:id="_v43nNzF3EeyfuqiXUOBUJQ" keyword="create"/>
+      <visibility xmi:id="_v43nODF3EeyfuqiXUOBUJQ" label="+"/>
+      <cardinality xmi:id="_v43nOTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_v43nOjF3EeyfuqiXUOBUJQ">
+        <modelElement href="DailyPlanner.uml#_t7GS4DF3EeyfuqiXUOBUJQ"/>
+        <type xmi:id="_v43nOzF3EeyfuqiXUOBUJQ" name="TaskIterator">
+          <modelElement href="DailyPlanner.uml#_tzzYEDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_v43nPDF3EeyfuqiXUOBUJQ" name="tasks">
+        <modelElement href="DailyPlanner.uml#_t7Fr0TF3EeyfuqiXUOBUJQ"/>
+        <cardinality xmi:id="_v43nPTF3EeyfuqiXUOBUJQ" label="1" max="1" min="1"/>
+        <type xmi:id="_v43nPjF3EeyfuqiXUOBUJQ" name="List">
+          <modelElement href="DailyPlanner.uml#_t65ekDF3EeyfuqiXUOBUJQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
